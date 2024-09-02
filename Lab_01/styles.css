@@ -1,13 +1,13 @@
-@charset "UTF-8";
-
-body{
-    background-image:linear-gradient(to right, lime, yellow, blue, yellow, lime);
-    h1{
-        text-align: center;
-    }
-
-    p{
-        text-align: center;
-    }
-
+body {
+  background-image: linear-gradient(
+    to right,
+    rgb(68, 193, 68),
+    rgb(53, 115, 37)
+  );
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
 }
